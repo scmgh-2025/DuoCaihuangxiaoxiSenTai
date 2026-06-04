@@ -80,7 +80,7 @@ export default function App() {
                     <div className="absolute top-14 -left-0.5 w-0.5 h-5 bg-slate-400 rounded-full"></div>
                     <div className="absolute top-24 -left-0.5 w-0.5 h-7 bg-slate-400 rounded-full"></div>
                     <div className="absolute top-20 -right-0.5 w-0.5 h-9 bg-slate-400 rounded-full"></div>
-                    <img src="./dchxx.png" alt="多彩黄小西" className="w-full h-full object-cover" />
+                    <img src="/DuoCaihuangxiaoxiSenTai/dchxx.png" alt="多彩黄小西" className="w-full h-full object-cover" />
                   </div>
                 </div>
               </div>
@@ -146,7 +146,7 @@ export default function App() {
                   <div className="absolute top-12 -left-0.5 w-0.5 h-4 bg-slate-400 rounded-full"></div>
                   <div className="absolute top-20 -left-0.5 w-0.5 h-6 bg-slate-400 rounded-full"></div>
                   <div className="absolute top-18 -right-0.5 w-0.5 h-8 bg-slate-400 rounded-full"></div>
-                  <img src="./景区智能体.png" alt="景区智能体" className="w-full h-full object-cover" />
+                  <img src="/DuoCaihuangxiaoxiSenTai/景区智能体.png" alt="景区智能体" className="w-full h-full object-cover" />
                 </div>
               </div>
             </motion.div>
@@ -185,7 +185,7 @@ export default function App() {
                   <div className="absolute top-12 -left-0.5 w-0.5 h-4 bg-slate-400 rounded-full"></div>
                   <div className="absolute top-20 -left-0.5 w-0.5 h-6 bg-slate-400 rounded-full"></div>
                   <div className="absolute top-18 -right-0.5 w-0.5 h-8 bg-slate-400 rounded-full"></div>
-                  <img src="./2.jpg" alt="酒店智能体" className="w-full h-full object-cover" />
+                  <img src="/DuoCaihuangxiaoxiSenTai/2.jpg" alt="酒店智能体" className="w-full h-full object-cover" />
                 </div>
               </div>
             </motion.div>
@@ -224,7 +224,7 @@ export default function App() {
                   <div className="absolute top-12 -left-0.5 w-0.5 h-4 bg-slate-400 rounded-full"></div>
                   <div className="absolute top-20 -left-0.5 w-0.5 h-6 bg-slate-400 rounded-full"></div>
                   <div className="absolute top-18 -right-0.5 w-0.5 h-8 bg-slate-400 rounded-full"></div>
-                  <img src="./餐饮智能体.jpg" alt="餐饮智能体" className="w-full h-full object-cover" />
+                  <img src="/DuoCaihuangxiaoxiSenTai/餐饮智能体.jpg" alt="餐饮智能体" className="w-full h-full object-cover" />
                 </div>
               </div>
             </motion.div>
@@ -263,7 +263,7 @@ export default function App() {
                   <div className="absolute top-12 -left-0.5 w-0.5 h-4 bg-slate-400 rounded-full"></div>
                   <div className="absolute top-20 -left-0.5 w-0.5 h-6 bg-slate-400 rounded-full"></div>
                   <div className="absolute top-18 -right-0.5 w-0.5 h-8 bg-slate-400 rounded-full"></div>
-                  <img src="./个人智能体.png" alt="个人智能体" className="w-full h-full object-cover" />
+                  <img src="/DuoCaihuangxiaoxiSenTai/个人智能体.png" alt="个人智能体" className="w-full h-full object-cover" />
                 </div>
               </div>
             </motion.div>
@@ -295,7 +295,7 @@ export default function App() {
                     <div className="absolute top-14 -left-0.5 w-0.5 h-5 bg-slate-400 rounded-full"></div>
                     <div className="absolute top-24 -left-0.5 w-0.5 h-7 bg-slate-400 rounded-full"></div>
                     <div className="absolute top-20 -right-0.5 w-0.5 h-9 bg-slate-400 rounded-full"></div>
-                    <img src="./11.png" alt="B端工作台-左" className="w-full h-full object-cover" />
+                    <img src="/DuoCaihuangxiaoxiSenTai/11.png" alt="B端工作台-左" className="w-full h-full object-cover" />
                   </div>
                 </div>
                 {/* 右侧机模 */}
@@ -305,7 +305,7 @@ export default function App() {
                     <div className="absolute top-14 -left-0.5 w-0.5 h-5 bg-slate-400 rounded-full"></div>
                     <div className="absolute top-24 -left-0.5 w-0.5 h-7 bg-slate-400 rounded-full"></div>
                     <div className="absolute top-20 -right-0.5 w-0.5 h-9 bg-slate-400 rounded-full"></div>
-                    <img src="./12.png" alt="B端工作台-右" className="w-full h-full object-cover" />
+                    <img src="/DuoCaihuangxiaoxiSenTai/12.png" alt="B端工作台-右" className="w-full h-full object-cover" />
                   </div>
                 </div>
               </div>
