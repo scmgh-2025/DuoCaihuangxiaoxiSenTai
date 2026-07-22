@@ -136,15 +136,15 @@ export default function App() {
                 <div className="space-y-1.5 mb-4 text-slate-500 text-xs inline-block text-left">
                   <div className="flex items-center gap-1.5 text-slate-600 font-medium">
                     <CheckCircle2 className="w-3.5 h-3.5 text-blue-500 shrink-0" />
-                    <span>智能导览与讲解</span>
+                    <span>定制行程、票务解读</span>
                   </div>
                   <div className="flex items-center gap-1.5 text-slate-600 font-medium">
                     <CheckCircle2 className="w-3.5 h-3.5 text-blue-500 shrink-0" />
-                    <span>票务分时预约</span>
+                    <span>路线引导、文化讲解</span>
                   </div>
                   <div className="flex items-center gap-1.5 text-slate-600 font-medium">
                     <CheckCircle2 className="w-3.5 h-3.5 text-blue-500 shrink-0" />
-                    <span>客流预警引导</span>
+                    <span>汇总游玩数据、归集服务需求</span>
                   </div>
                 </div>
               </div>
@@ -175,15 +175,15 @@ export default function App() {
                 <div className="space-y-1.5 mb-4 text-slate-500 text-xs inline-block text-left">
                   <div className="flex items-center gap-1.5 text-slate-600 font-medium">
                     <CheckCircle2 className="w-3.5 h-3.5 text-blue-500 shrink-0" />
-                    <span>入住咨询与房型介绍</span>
+                    <span>客房咨询、服务预约、售后应答</span>
                   </div>
                   <div className="flex items-center gap-1.5 text-slate-600 font-medium">
                     <CheckCircle2 className="w-3.5 h-3.5 text-blue-500 shrink-0" />
-                    <span>智能推荐与周边服务</span>
+                    <span>工单订单一站处理，标准服务流程</span>
                   </div>
                   <div className="flex items-center gap-1.5 text-slate-600 font-medium">
                     <CheckCircle2 className="w-3.5 h-3.5 text-blue-500 shrink-0" />
-                    <span>客户关怀与满意度调查</span>
+                    <span>精细化管理，开辟增收途径</span>
                   </div>
                 </div>
               </div>
@@ -214,15 +214,15 @@ export default function App() {
                 <div className="space-y-1.5 mb-4 text-slate-500 text-xs inline-block text-left">
                   <div className="flex items-center gap-1.5 text-slate-600 font-medium">
                     <CheckCircle2 className="w-3.5 h-3.5 text-blue-500 shrink-0" />
-                    <span>菜单推荐与口味偏好</span>
+                    <span>菜单推荐、口味偏好</span>
                   </div>
                   <div className="flex items-center gap-1.5 text-slate-600 font-medium">
                     <CheckCircle2 className="w-3.5 h-3.5 text-blue-500 shrink-0" />
-                    <span>排队预约与在线取号</span>
+                    <span>排队预约、在线取号</span>
                   </div>
                   <div className="flex items-center gap-1.5 text-slate-600 font-medium">
                     <CheckCircle2 className="w-3.5 h-3.5 text-blue-500 shrink-0" />
-                    <span>优惠推送与食材溯源</span>
+                    <span>优惠推送、食材溯源</span>
                   </div>
                 </div>
               </div>
@@ -253,7 +253,7 @@ export default function App() {
                 <div className="space-y-1.5 mb-4 text-slate-500 text-xs inline-block text-left">
                   <div className="flex items-center gap-1.5 text-slate-600 font-medium">
                     <CheckCircle2 className="w-3.5 h-3.5 text-blue-500 shrink-0" />
-                    <span>AI 帮讲故事</span>
+                    <span>AI助手团队</span>
                   </div>
                   <div className="flex items-center gap-1.5 text-slate-600 font-medium">
                     <CheckCircle2 className="w-3.5 h-3.5 text-blue-500 shrink-0" />
